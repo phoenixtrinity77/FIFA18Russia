@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/playerlist"
+        android:icon="@drawable/playericon"
+        android:title="Player Wallpaper" />
+    <item
+        android:id="@+id/fixturesdata"
+        android:icon="@drawable/fixturesicon"
+        android:title="Fixtures Data"/>
+    <item
+        android:id="@+id/downloadpic"
+        android:icon="@drawable/ic_file_download_black_24dp"
+        android:title="Download Pic" />
+</menu>
